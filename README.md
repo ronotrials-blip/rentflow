@@ -87,4 +87,4 @@ The demo produces total revenue of KSh 93,200.
 ## Author
 
 Joan Rono
-[Your GitHub repository link, if you create one]
+(https://github.com/ronotrials-blip/rentflow)
